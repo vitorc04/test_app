@@ -1,1 +1,1 @@
-1. Version Controll with Git
+1. First Test repo on the Complete Ruby on Rails Developer course.
